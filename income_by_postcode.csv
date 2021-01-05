@@ -1,0 +1,67 @@
+PostalCode,PostTown,NetIncome,Population,Coverage,Local Authority Area
+NE1,NEWCASTLE UPON TYNE," 31,400 ",174894,City Centre,Newcastle upon Tyne
+NE2,NEWCASTLE UPON TYNE," 39,400 ",296275,"Jesmond, Spital Tongues",Newcastle upon Tyne
+NE3,NEWCASTLE UPON TYNE," 24,800 ",275023,"Gosforth, Fawdon, Kingston Park, Kenton",Newcastle upon Tyne
+NE4,NEWCASTLE UPON TYNE," 25,100 ",109832,"Fenham, Arthurs Hill, Elswick, Wingrove, Benwell",Newcastle upon Tyne
+NE5,NEWCASTLE UPON TYNE," 39,000 ",48390,"Blakelaw, Cowgate, Denton and Westerhope,",Newcastle upon Tyne
+NE6,NEWCASTLE UPON TYNE," 36,700 ",167383,"Walker, Byker, Heaton, Walkergate",Newcastle upon Tyne
+NE7,NEWCASTLE UPON TYNE," 38,300 ",20370,"Heaton, Benton",Newcastle upon Tyne
+NE8,GATESHEAD," 29,000 ",33219,"Gateshead, Bensham",Gateshead
+NE9,GATESHEAD," 25,100 ",37590,"Low Fell, Springwell","Gateshead, Sunderland"
+NE10,GATESHEAD," 31,800 ",36136,"Felling, Whitehills Estate, Leam Lane, Pelaw, Bill Quay",Gateshead
+NE11,GATESHEAD," 51,000 ",16457,"Dunston, Metro Centre, Team Valley, Kibblesworth",Gateshead
+NE12,NEWCASTLE UPON TYNE," 28,000 ",34659,"Killingworth, Longbenton",North Tyneside
+NE13,NEWCASTLE UPON TYNE," 26,400 ",12472,"Airport, Wideopen, Dinnington, Great Park (West), Woolsington","Newcastle upon Tyne, North Tyneside"
+NE14,NEWCASTLE UPON TYNE," 28,500 ",,"Lemington, Throckley, Newburn, Fenham, Benwell & Scotswood",Newcastle upon Tyne
+NE15,NEWCASTLE UPON TYNE," 33,100 ",32569,"Whickham, Sunniside, Burnopfield","Gateshead, County Durham"
+NE16,NEWCASTLE UPON TYNE," 29,000 ",25671,"Chopwell, Western Chopwell Wood","Gateshead, Northumberland ( lead cottages, Chopwell )"
+NE17,NEWCASTLE UPON TYNE," 27,100 ",4890,Stamfordham,Northumberland
+NE18,NEWCASTLE UPON TYNE," 29,500 ",959,"Byrness, Otterburn",Northumberland
+NE19,NEWCASTLE UPON TYNE," 27,900 ",2159,Ponteland,Northumberland
+NE20,BLAYDON-ON-TYNE," 21,300 ",11838,"Blaydon, Winlaton",Gateshead
+NE21,BEDLINGTON," 22,500 ",17260,"Bedlington, Hartford Bridge",Northumberland
+NE22,CRAMLINGTON," 22,900 ",18163,"Cramlington, Seghill",Northumberland
+NE23,BLYTH," 27,500 ",39251,"Blyth, Newsham, Cowpen, Cambois",Northumberland
+NE24,WHITLEY BAY," 24,700 ",37946,"Monkseaton, Earsdon, New Hartley, Holywell, Seaton Delaval","North Tyneside, Northumberland"
+NE25,WHITLEY BAY," 23,200 ",29944,"Whitley Bay, Seaton Sluice","North Tyneside, Northumberland"
+NE26,NEWCASTLE UPON TYNE," 22,500 ",19169,"Shiremoor, West Allotment, Backworth, Holystone, Murton Village",North Tyneside
+NE27,WALLSEND," 23,900 ",12335,"Battle Hill, Willington, Wallsend, North Tyne Tunnel",North Tyneside
+NE28,NORTH SHIELDS," 21,600 ",44661,"North Shields, Royal Quays, Billy Mill, New York",North Tyneside
+NE29,NORTH SHIELDS," 28,800 ",16899,"Marden, Tynemouth, Cullercoats",North Tyneside
+NE30,HEBBURN,,,Hebburn,South Tyneside
+NE31,JARROW,,,"Jarrow, Fellgate, South Tyne Tunnel",South Tyneside
+,SOUTH SHIELDS,,,"Town Centre, Deans, High Shields",South Tyneside
+,SOUTH SHIELDS,,,"Harton, Horsley Hill, Marsden, Simonside, Brockley Whins",South Tyneside
+,BOLDON COLLIERY,,,Boldon Colliery,South Tyneside
+,EAST BOLDON,,,"East Boldon, West Boldon",South Tyneside
+,WASHINGTON,,,"Usworth, Sulgrave, Albany",Sunderland
+,WASHINGTON,,,"Town Centre, Oxclose, Fatfield, Harraton",Sunderland
+,ROWLANDS GILL,,,"Rowlands Gill, High Spen, Hamsterley Mill, Eastern Chopwell Wood","Gateshead, County Durham"
+,RYTON,,,"Ryton, Crawcrook, Greenside",Gateshead
+,WYLAM,,,Wylam,"Gateshead, Northumberland"
+,PRUDHOE,,,Prudhoe,Northumberland
+,STOCKSFIELD,,,Stocksfield,Northumberland
+,RIDING MILL,,,"Riding Mill, Broomhaugh",Northumberland
+,CORBRIDGE,,,Corbridge,Northumberland
+,HEXHAM,,,Hexham,Northumberland
+,HEXHAM,,,"Acomb, Hexhamshire",Northumberland
+,HEXHAM,,,"Falstone, Kielder",Northumberland
+,HALTWHISTLE,,,Haltwhistle,Northumberland
+,MORPETH,,,"Morpeth, Tranwell, Clifton, Hepscott, Mitford",Northumberland
+,CHOPPINGTON,,,"Scotland Gate, Guidepost, Stakeford, West Sleekburn, Bomarsund",Northumberland
+,ASHINGTON,,,Ashington,Northumberland
+,NEWBIGGIN-BY-THE-SEA,,,Newbiggin-by-the-Sea,Northumberland
+,MORPETH,,,River Coquet,Northumberland
+,ALNWICK,,,"Alnwick, Shilbottle",Northumberland
+,CHATHILL,,,"Chathill, Beadnell",Northumberland
+,SEAHOUSES,,,Seahouses,Northumberland
+,BAMBURGH,,,Bamburgh,Northumberland
+,BELFORD,,,Belford,Northumberland
+,WOOLER,,,Wooler,Northumberland
+,NEWCASTLE UPON TYNE,,,BT Group[6],non-geographic
+,NEWCASTLE UPON TYNE,,,BT Group[6],non-geographic
+,NEWCASTLE UPON TYNE,,,Spark Response Ltd[6],non-geographic
+,NEWCASTLE UPON TYNE,,,HM Revenue and Customs (Child Benefit Centre)[6],non-geographic
+,GATESHEAD,,,Department for Work and Pensions (Earlsway)[6],non-geographic
+,NEWCASTLE UPON TYNE,,,Department for Work and Pensions (Central Office)[6],non-geographic
+,NEWCASTLE UPON TYNE,,,Locked boxes (Head Post Office)[6],non-geographic
